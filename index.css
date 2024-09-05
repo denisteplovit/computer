@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+}
+
+.videographicsoutput {
+    font-size: 50px;
+    color: blue;
+}
+
+.CPUoutput {
+    font-size: 50px;
+    color: green;
+}
+
+.RAMoutput {
+    font-size: 50px;
+    color: brown;
+}
